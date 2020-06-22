@@ -77,3 +77,29 @@ After you have decided what features would be best for your client, you will wan
 Compare the different platforms against each other to see which one offers the best experience. This can help determine which platform you would like to use. You can then install your bot and adjust the settings accordingly.
 
 Now that you have read this article, you will now know how to use a website chatbot. Remember to test first, before you implement your bot with your customers, and ensure that you have a well-tested product.
+
+#### What is a Messenger Chatbot and Why Are We Talking About It Today?
+
+The chatbot community is abuzz with the news that Facebook Messenger has launched a Messenger Chatbot. In order to bring chatbots to Facebook, Facebook set up an office in San Francisco called Facebook Automotive. This was headed by John Zimmer, a web developer and designer.
+
+People had been talking about chatbots, but it seemed like no one actually knew how to build one. The new Facebook Automotive office will help solve that problem.
+
+Facebook engineers are hard at work building their Messenger Chatbot. They're turning their attention to the design. It's a process that seems very similar to the design of a web page. Everyone loves a good site.
+
+The new Messenger Chatbot is calling U2AI. It's an autonomous car that people can talk to. It has "personalized" experiences, by keeping track of the feedback from its users. For example, if a person wants to talk to the CEO of Facebook, the chatbot can point that person to the CEO's personal page.
+
+You may be asking yourself, what does a Messenger Chatbot have to do with driving? Well, let's take a look at what they plan to do:
+
+As a driver, you'll be able to touch an icon to see everything that U2AI has to say to you. For example, if you ask it to show you maps, it can. Of course, your wishes are much more important than any map.
+
+The whole concept behind the Messenger Bot is to give people control over the conversation. The chatbot will control the conversations it has with people. The reason why Facebook decided to open their Messenger API to developers is because they want to provide people with tools to get as much control as possible over their conversations.
+
+Of course, you can't expect to give people the ability to talk to the software on a social site. That would be like letting your pet say anything to you and getting all the credit for the magic it does. But, using your voice to tell a computer what to do will probably be something the masses will enjoy.
+
+Most of us don't have a good understanding of what a Messenger Bot is or how they work. Let's take a closer look at how the Messenger Chatbot works.
+
+As the assistant of the Messenger Bot, you'll be able to interact with the bot as if you were talking to a real person. With the new Facebook Automotive office, the team is making sure that chatbots can handle different interactions. A person can press a button and tell the chatbot to go to a specific location. And you'll be able to let the bot know whether or not you're happy with a particular decision.
+
+But there are some concerns that people have with the creation of chatbots, including whether or not they will get bored with the conversations. If this turns out to be true, it may be more of a short-term thing.
+
+A Messenger Bot is different from a chatbot because the second you press a button, it will automatically take you to the right place. However, you will still need to put your hands on the wheel of the car. Let's hope that Facebook does the same thing for the future of driving.
