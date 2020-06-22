@@ -104,7 +104,7 @@ But there are some concerns that people have with the creation of chatbots, incl
 
 A Messenger Bot is different from a chatbot because the second you press a button, it will automatically take you to the right place. However, you will still need to put your hands on the wheel of the car. Let's hope that Facebook does the same thing for the future of driving.
 
-##### Chatbot Benefits - How Chatbots Benefit You
+## Chatbot Benefits - How Chatbots Benefit You
 
 If you are trying to make a profit on the internet, you may want to consider buying a chatbot for your website. The initial purchase cost of a chatbot is more than most website owners will pay for several years. But as the chatbot does what you want it to do, its cost goes down and you can buy upgrades.
 
