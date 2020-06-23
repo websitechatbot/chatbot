@@ -2,7 +2,7 @@
 ## A Multi Channel Marketing Chatbot For Social Media Marketing, SMS Marketing, Email Marketing, eCommerce, Messenger, and Website Chat.
 ### What Are The Benefits Of Using A Website Chatbot?
 
-Chatbots have been an important piece of technology for some time now. The reason for this is that these chatbots, which are also referred to as "chat software", have become a highly significant part of the marketing and e-commerce strategies that are pursued by many companies today. But despite this fact, there are still a lot of people who don't fully understand what chatbot benefits are and how these functions work.
+The use of a [Chatbot](https://messengerbot.app) has been an important piece of technology for some time now. The reason for this is that these chatbots, which are also referred to as "chat software", have become a highly significant part of the marketing and e-commerce strategies that are pursued by many companies today. But despite this fact, there are still a lot of people who don't fully understand what chatbot benefits are and how these functions work.
 
 Of course, a website chatbot is a special software application that allows a person to perform certain tasks using a chat interface on the website. The application can be anything from something that can help a person to set up an appointment with a doctor or an accountancy firm, to something that can post or respond to messages that are received on the website. The use of a website chatbot can be a really useful tool in business marketing strategy.
 
